@@ -19,7 +19,7 @@ var theme = {
                                    // 'top' ¦ 'bottom' ¦ 'center'
                                    // ¦ {number}（y坐标，单位px）
         //textAlign: null          // 水平对齐方式，默认根据x设置自动调整
-        backgroundColor: '#F2F2E6',
+        backgroundColor: 'rgba(0,0,0,0)',
         borderColor: '#ccc',       // 标题边框颜色
         borderWidth: 0,            // 标题边框线宽，单位px，默认为0（无边框）
         padding: 5,                // 标题内边距，单位px，默认各方向内边距为5，
